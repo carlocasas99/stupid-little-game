@@ -1,4 +1,4 @@
-import Player from './player';
+import Player from './player.js';
 // Canvas Setup
 let canvas = document.getElementById("gameScreen");
 let ctx = canvas.getContext('2d');
